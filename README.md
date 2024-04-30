@@ -53,6 +53,6 @@ By carefully selecting and implementing these features, you can create a [WhatsA
 
 Connect seamlessly with anyone, anywhere, with free chat, calls, and video.
 
-**Visit** - [https://sangvish.com/whatsapp-clone/](http://sangvish.com/whatsapp-clone/)
+**Explore our LIVE DEMO** - [https://sangvish.com/whatsapp-clone/](http://sangvish.com/whatsapp-clone/)
 
 #whatsapp #whatsappclone #whatsappclonescript #whatsappclonesoftware #whatsappcloneapp #business #messageapp #chatapp
